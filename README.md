@@ -6,4 +6,5 @@ As a web developer, I am passionate about creating high-quality, functional, and
 Following are my recent projects.
 
 - [Coca Cola landing design](https://anash45.github.io/coca-cola-homepage-design/)
-- [Server lading page design](https://anash45.github.io/Server-landing-page/) 
+- [Server lading page design](https://anash45.github.io/Server-landing-page/)
+- [Testable Design Tailwind](https://anash45.github.io/tailwind-testable-design/)
