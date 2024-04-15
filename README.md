@@ -9,3 +9,4 @@ Following are my recent projects.
 - [Server lading page design](https://anash45.github.io/Server-landing-page/)
 - [Testable Design Tailwind](https://anash45.github.io/tailwind-testable-design/)
 - [Liquid Monks Company Portfolio](https://anash45.github.io/liquid-monks/)
+- [Monetars](https://github.com/Anash45/Monetars-Redesign)
