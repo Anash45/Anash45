@@ -5,8 +5,8 @@ As a web developer, I am passionate about creating high-quality, functional, and
 ## Projects
 Following are my recent projects.
 
-- [Coca Cola landing design](https://anash45.github.io/coca-cola-homepage-design/)
+- [Monetars](https://github.com/Anash45/Monetars-Redesign)
 - [Server lading page design](https://anash45.github.io/Server-landing-page/)
 - [Testable Design Tailwind](https://anash45.github.io/tailwind-testable-design/)
 - [Liquid Monks Company Portfolio](https://anash45.github.io/liquid-monks/)
-- [Monetars](https://github.com/Anash45/Monetars-Redesign)
+- [Coca Cola landing design](https://anash45.github.io/coca-cola-homepage-design/)
