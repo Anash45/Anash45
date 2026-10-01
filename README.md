@@ -109,7 +109,6 @@ management, and a documented public API for company integrations.
 
 - **Stack:** Laravel 12, React + TypeScript via Inertia.js, Tailwind CSS,
   MySQL, Vite, TipTap, Recharts, Google Maps
-- **Live demo:** Private (subject to NDA) — [walkthrough video](https://drive.google.com/file/d/1WUbGx-OKQIoumrP1duDb52Yg-W1v0Sip/view)
 
 #### 🗺️ Places Scraper
 A Laravel/React tool that, given a place type (e.g. "restaurant") and a
@@ -123,7 +122,6 @@ of live job coverage.
 
 - **Stack:** Laravel, React (Inertia.js), MySQL, Leaflet, Google Places API,
   OpenStreetMap/Nominatim
-- **Live demo:** Private (subject to NDA) — [walkthrough video](https://drive.google.com/file/d/1WUbGx-OKQIoumrP1duDb52Yg-W1v0Sip/view) (Places Scraper section starts at 5:55)
 
 <!-- More projects to be added below -->
 
