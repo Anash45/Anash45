@@ -61,29 +61,7 @@
 
 ### 🚀 Featured Projects
 
-#### 🚌 CHQ — Coach Hire Quotes
-A coach/bus hire marketplace platform connecting travellers who need group
-transport with coach hire vendors/suppliers. Full front-end application with
-separate client (traveller) and vendor (coach operator) portals — including
-an AI-style chat trip planner with drag-and-drop itinerary building, coach
-search with interactive maps, booking/reservation flow, and a vendor-side
-fleet, quotes, bookings, advertising and finance dashboard.
 
-- **Stack:** Next.js 15 (App Router), React 19, Tailwind CSS 3, Bootstrap 5,
-  Framer Motion, Google Maps API / Leaflet, TanStack Table, dnd-kit, Recharts,
-  Swiper
-
-
-#### 🚗 Carsmart
-A static, front-end-only prototype of a car marketplace/auction platform,
-hand-coded directly from Figma (100+ pages, no framework, no build step).
-Covers the full buying/selling journey — live auctions, "buy it now", quick
-sale, wholesale, SmartExchange/SmartConnect/SmartWallet flows — plus vendor
-onboarding, KYC, dashboards, and a matching set of 34 transactional email
-templates (light/dark variants).
-
-- **Stack:** HTML5, CSS3, Bootstrap 5, vanilla JS + jQuery, AOS, Select2,
-  Slick Carousel, Dropzone.js
 
 #### 💰 Monetars — GPT Rewards Platform
 A "get-paid-to" (GPT) rewards platform: a marketing site plus a full member
