@@ -72,7 +72,7 @@ fleet, quotes, bookings, advertising and finance dashboard.
 - **Stack:** Next.js 15 (App Router), React 19, Tailwind CSS 3, Bootstrap 5,
   Framer Motion, Google Maps API / Leaflet, TanStack Table, dnd-kit, Recharts,
   Swiper
-- **Live demo:** [chq-next.vercel.app/pages](https://chq-next.vercel.app/pages)
+
 
 #### 🚗 Carsmart
 A static, front-end-only prototype of a car marketplace/auction platform,
@@ -84,8 +84,6 @@ templates (light/dark variants).
 
 - **Stack:** HTML5, CSS3, Bootstrap 5, vanilla JS + jQuery, AOS, Select2,
   Slick Carousel, Dropzone.js
-- **Live demo:** [anash45.github.io/carsmart_v1/pages.html](https://anash45.github.io/carsmart_v1/pages.html)
-- **Email templates:** [anash45.github.io/carsmart_v1/email-templates](https://anash45.github.io/carsmart_v1/email-templates/)
 
 #### 💰 Monetars — GPT Rewards Platform
 A "get-paid-to" (GPT) rewards platform: a marketing site plus a full member
